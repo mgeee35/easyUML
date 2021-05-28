@@ -2,4 +2,4 @@
 Includes easyUML plug-in .nbm files
 
 Installation video link:
-https://www.youtube.com/watch?v=C-Hbbio-a9k
+https://www.youtube.com/watch?v=KaUtssmQs6A
