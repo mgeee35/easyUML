@@ -1,4 +1,4 @@
-# easyUML for Netbeans-8.2 & Netbeans-11.0 & Netbeans-12.0 & Netbeans-12+
+# easyUML for all Netbeans versions
 Includes easyUML plug-in .nbm files
 
 Installation video link:
